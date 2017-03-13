@@ -2,7 +2,7 @@
 
 ## Hot Key
 
-* Open Iterm2 config setup window: \`cmd + ,\`
+* Open Iterm2 config setup window: \`command + option + i\`
 
 dsd
 
