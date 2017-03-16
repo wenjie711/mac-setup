@@ -2,7 +2,7 @@
 
 Use Sublime as the golang IDE. There are a little packages can be used to improve the efficiency of developing golang in Sublime.
 ### Gosublime (Golang plugin collection)
-- https://github.com/DisposaBoy/GoSublime
+- use [DisposaBoy/GoSublime](https://github.com/DisposaBoy/GoSublime)
 
 ### Jump to definition
 - Use [buaazp/godef](https://github.com/buaazp/Godef) package
