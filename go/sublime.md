@@ -1,5 +1,6 @@
 # Sublime
 
+Use Sublime as the golang IDE. There are a little packages can be used to improve the efficiency of developing golang in Sublime.
 ### Gosublime (Golang plugin collection)
 - https://github.com/DisposaBoy/GoSublime
 
@@ -16,4 +17,12 @@
     { "keys": ["super+option+k"], "command": "jump_forward"},
     { "keys": ["super+option+j"], "command": "jump_back"}
 ]
+```
+
+### Build on save
+- use [slene/GoHelper](https://github.com/slene/GoHelper) package
+- no need to configue
+```
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+git clone git@github.com:slene/GoHelper.git
 ```
