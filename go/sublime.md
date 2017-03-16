@@ -21,7 +21,7 @@ Use Sublime as the golang IDE. There are a little packages can be used to improv
 
 ### Build on save
 - use [slene/GoHelper](https://github.com/slene/GoHelper) package
-- no need to configue
+- no need more things to do and just clone the git repository
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 git clone git@github.com:slene/GoHelper.git
