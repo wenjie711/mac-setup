@@ -5,8 +5,8 @@ Use Sublime as the golang IDE. There are a little packages can be used to improv
 - https://github.com/DisposaBoy/GoSublime
 
 ### Jump to definition
-- use [buaazp/godef](https://github.com/buaazp/Godef) package
-- setup key binding
+- Use [buaazp/godef](https://github.com/buaazp/Godef) package
+- Setup key binding
     - use `cmd+option+h` to go to definition
     - use `cmd+option+j` and `cmd+option+k` to jump between the postions 
 
@@ -20,12 +20,12 @@ Use Sublime as the golang IDE. There are a little packages can be used to improv
 ```
 
 ### Build on save
-- use [slene/GoHelper](https://github.com/slene/GoHelper) package
-- no need more things to do and just clone git repository
+- Use [slene/GoHelper](https://github.com/slene/GoHelper) package
+- No need more things to do and just clone git repository
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 git clone git@github.com:slene/GoHelper.git
 ```
-- double press `cmd+s` to trigger
+- Double press `cmd+s` to trigger
 
 ### 
