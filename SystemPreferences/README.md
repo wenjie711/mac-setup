@@ -1,7 +1,7 @@
 # System Preferences
 
 ### Trackpad
-- use three fingers to drag 
+- Use three fingers to drag and select text. [Link](https://support.apple.com/en-us/HT204609)
 
 
 

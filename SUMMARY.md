@@ -9,5 +9,6 @@
 * [5. Golang](go.md)
   * [Sublime](go/sublime.md)
   * [Vim](go/vim.md)
+  * [Vscode](go/vscode.md)
 * [6. Sublime](sublime.md)
 
