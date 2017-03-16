@@ -1,2 +1,2 @@
 # mac-setup
-setup a new mac on Mac OS X
+This a simple book that list some method to setup a new mac on Mac OSX.
