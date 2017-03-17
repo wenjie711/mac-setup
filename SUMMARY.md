@@ -11,4 +11,5 @@
   * [Vim](go/vim.md)
   * [Vscode](go/vscode.md)
 * [6. Sublime](sublime.md)
+* [Tools](tools.md)
 
